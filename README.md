@@ -2,7 +2,7 @@
 
 Frigerio Riccardo - 
 Napoli Mattia - 
-Tremolada Giulia - 
+Tremolada Giulia
 
 ## Struttura della Cartella
 
