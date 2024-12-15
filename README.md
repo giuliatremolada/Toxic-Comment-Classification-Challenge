@@ -1,18 +1,8 @@
 # AML Toxic Comments Kaggle Challenge
 
-Frigerio Riccardo - 852226
-Napoli Mattia - 852239
-Tremolada Giulia - 861144
-
-## Istruzioni
-
-Quando la cartella viene condivisa via Drive appare nella sezione 'Condivisi con me'.
-Per poter eseguire i notebook al suo interno e garantire che i path verso i file di train e test rimangano validi e' necessario creare una scorciatoia a quela cartella all'interno di 'Mio drive'.
-
-La procedura e' la seguente:
-* nella sezione `Condivisi con Me` selezionare la cartella `AML-Project-Frigerio-Napoli-Tremolada`
-* cliccare con il tasto destro e selezionare `Organizza` > `Aggiungi scorciatoia` e infine selezionare il `Mio drive`
-Questo aggiungera' la scorciatoria con il path corretto per consentire l'esecuzione dei notebook
+Frigerio Riccardo - 
+Napoli Mattia - 
+Tremolada Giulia - 
 
 ## Struttura della Cartella
 
