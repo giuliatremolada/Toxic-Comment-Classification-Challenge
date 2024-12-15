@@ -4,6 +4,9 @@ Frigerio Riccardo -
 Napoli Mattia - 
 Tremolada Giulia
 
+## Dataset
+I file relativi ai train e test set di questa progetto sono recuperabili dalla omonima challenge presente su https://www.kaggle.com/
+
 ## Struttura della Cartella
 
 Il file `data_analysis.ipynb` contiene il codice utilizzato per testare il preprocessing del dataset, analizzarne il contenuto e tentare la data augmentation.
