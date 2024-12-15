@@ -8,7 +8,7 @@ Tremolada Giulia -
 
 Il file `data_analysis.ipynb` contiene il codice utilizzato per testare il preprocessing del dataset, analizzarne il contenuto e tentare la data augmentation.
 
-I rimanenti file hanno invece il compito di applicare il preprocessing al dataset, creare i modelli e testarli, calcolando infine le metrice di valutazione.
+I rimanenti file hanno invece il compito di applicare il preprocessing al dataset, creare i modelli e testarli, calcolando infine le metriche di valutazione.
 
 I dettagli dei file sono i seguenti:
 * `transformers.ipynb`: si occupa di testare il modello basato su transformer contro embedding standard di keras, embedding con glove e fine tuning di glove
